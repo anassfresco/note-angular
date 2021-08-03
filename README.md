@@ -6,7 +6,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ![ezgif com-optimize](https://github.com/anassfresco/note-angular/blob/main/src/app/24s.gif)
 
 
-created by - [anas bahi ](https://github.com/anassfresco) and [Mohamed Ait Abdenni](https://github.com/iota00)
+created by :
+-[anas bahi ](https://github.com/anassfresco) 
+-[Mohamed Ait Abdenni](https://github.com/iota00)
 
 ## Development server
 
