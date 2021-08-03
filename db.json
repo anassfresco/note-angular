@@ -1,0 +1,36 @@
+{
+  "notes": [
+    {
+      "title": "Note 1",
+      "text": "This is the 1st note",
+      "date": "8/2/2021, 10:24:56 PM",
+      "type": "private",
+      "favorite": true,
+      "id": 1
+    },
+    {
+      "title": "Note 2",
+      "text": "Yeah!!! it's the 2nd note",
+      "date": "8/2/2021, 10:25:35 PM",
+      "type": "public",
+      "favorite": false,
+      "id": 2
+    },
+    {
+      "title": "Project",
+      "text": "The project is about to be finished by tomorrow",
+      "date": "8/2/2021, 10:26:20 PM",
+      "type": "public",
+      "favorite": true,
+      "id": 3
+    },
+    {
+      "title": "Alphabets",
+      "text": "English alphabets :\nA B C D E F G H I J K L M N O P Q R S T U V W X Y Z\na b c d e f g h i j k l m n o p q r s t u v w x y z",
+      "date": "8/2/2021, 10:31:23 PM",
+      "type": "public",
+      "favorite": false,
+      "id": 4
+    }
+  ]
+}
